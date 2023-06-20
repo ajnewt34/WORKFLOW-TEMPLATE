@@ -6,4 +6,4 @@ This repository contains the a GitHub action which uses a template.
 
 Making a minor update here to trigger the action once more.
 
-Some chnages
+Some changes
